@@ -1,4 +1,5 @@
 syntax on
+color moonlight
 
 set tabstop=4
 set softtabstop=4
