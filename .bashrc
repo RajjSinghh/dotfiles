@@ -277,3 +277,5 @@ else
     put_template_custom 12 ";7" # cursor (reverse video)
 fi
 #End of Colour scheme
+
+export PATH=$PATH:~/.local/bin
