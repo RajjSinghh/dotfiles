@@ -122,4 +122,4 @@ export EDITOR=vim
 #Colourscheme
 
 export PATH=$PATH:~/.local/bin
-export PS1="\t \w\\$ "
+export PS1="\t \[\e[33m\]\w\[\e[m\]\\$ "
